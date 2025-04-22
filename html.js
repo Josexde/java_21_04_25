@@ -1,1 +1,1 @@
-window.alert( 'mi nombre es jose' );
+window.alert( 'mi primera clase con javacript' );
